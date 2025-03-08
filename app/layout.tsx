@@ -3,6 +3,7 @@ import { Montserrat } from "next/font/google";
 import PlausibleProvider from "next-plausible";
 import "./globals.css";
 import Image from "next/image";
+// @ts-ignore
 import bgImage from "../public/new-bg.png";
 
 const montserrat = Montserrat({ subsets: ["latin"] });

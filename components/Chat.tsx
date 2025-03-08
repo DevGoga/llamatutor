@@ -1,6 +1,7 @@
 import ReactMarkdown from "react-markdown";
 import FinalInputArea from "./FinalInputArea";
 import { useEffect, useRef, useState } from "react";
+// @ts-ignore
 import simpleLogo from "../public/simple-logo.png";
 import Image from "next/image";
 

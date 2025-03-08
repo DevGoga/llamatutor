@@ -1,6 +1,8 @@
 import Image from "next/image";
 import { FC } from "react";
+// @ts-ignore
 import desktopImg from "../public/desktop-screenshot.png";
+// @ts-ignore
 import mobileImg from "../public/screenshot-mobile.png";
 import InitialInputArea from "./InitialInputArea";
 import { suggestions } from "@/utils/utils";
